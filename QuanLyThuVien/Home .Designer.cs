@@ -28,7 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.nguoiDungTableAdapter1 = new QuanLyThuVien.QuanLyThuVienDataSetTableAdapters.NguoiDungTableAdapter();
             this.SuspendLayout();
+            // 
+            // nguoiDungTableAdapter1
+            // 
+            this.nguoiDungTableAdapter1.ClearBeforeFill = true;
             // 
             // Form1
             // 
@@ -43,6 +48,8 @@
         }
 
         #endregion
+
+        private QuanLyThuVienDataSetTableAdapters.NguoiDungTableAdapter nguoiDungTableAdapter1;
     }
 }
 

@@ -19,7 +19,7 @@ namespace QuanLyThuVien
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Admin_Mangagement amd = new Admin_Mangagement();
+            Customer_Information amd = new Customer_Information();
             amd.ShowDialog();
         }
     }
