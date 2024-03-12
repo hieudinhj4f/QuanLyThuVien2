@@ -1,0 +1,28 @@
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Admin_Mangagement.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Admin_Mangagement.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Accout_Create.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChangePsssWord.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Select.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.AllBooks.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.DanhSachYeuThich.resources
+C:\Users\THIS PC\Desktop\L2\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Thongke.resources
