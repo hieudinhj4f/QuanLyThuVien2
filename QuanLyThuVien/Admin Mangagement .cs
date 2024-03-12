@@ -51,6 +51,21 @@ namespace QuanLyThuVien
         {
             Book_Borrow book_Borrow = new Book_Borrow();
             book_Borrow.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Book_Return book_Return = new Book_Return();
+            book_Return.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Book_Cart book_Cart = new Book_Cart();
+            book_Cart.Show();
+            this.Hide();
         }
     }
 }
