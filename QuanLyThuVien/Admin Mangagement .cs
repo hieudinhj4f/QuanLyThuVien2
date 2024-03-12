@@ -46,5 +46,11 @@ namespace QuanLyThuVien
         {
             SideBarTimer.Start();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Book_Borrow book_Borrow = new Book_Borrow();
+            book_Borrow.Show();
+        }
     }
 }

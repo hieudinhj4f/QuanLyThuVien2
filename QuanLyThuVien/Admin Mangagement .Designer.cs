@@ -31,13 +31,13 @@
             this.components = new System.ComponentModel.Container();
             this.SideBar = new System.Windows.Forms.FlowLayoutPanel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.HomeButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
             this.button3 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
-            this.HomeButton = new System.Windows.Forms.Button();
             this.SideBarTimer = new System.Windows.Forms.Timer(this.components);
             this.splitter1 = new System.Windows.Forms.Splitter();
             this.SideBar.SuspendLayout();
@@ -68,6 +68,21 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(107, 103);
             this.panel2.TabIndex = 2;
+            // 
+            // HomeButton
+            // 
+            this.HomeButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.HomeButton.BackgroundImage = global::QuanLyThuVien.Properties.Resources.icons8_menu_bar_80__2_;
+            this.HomeButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.HomeButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.HomeButton.FlatAppearance.BorderSize = 0;
+            this.HomeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.HomeButton.Location = new System.Drawing.Point(0, 3);
+            this.HomeButton.Name = "HomeButton";
+            this.HomeButton.Size = new System.Drawing.Size(104, 97);
+            this.HomeButton.TabIndex = 1;
+            this.HomeButton.UseVisualStyleBackColor = false;
+            this.HomeButton.Click += new System.EventHandler(this.HomeButton_Click);
             // 
             // panel1
             // 
@@ -137,21 +152,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "      TRẢ MƯỢN";
             this.button1.UseVisualStyleBackColor = false;
-            // 
-            // HomeButton
-            // 
-            this.HomeButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.HomeButton.BackgroundImage = global::QuanLyThuVien.Properties.Resources.icons8_menu_bar_80__2_;
-            this.HomeButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.HomeButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.HomeButton.FlatAppearance.BorderSize = 0;
-            this.HomeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.HomeButton.Location = new System.Drawing.Point(0, 3);
-            this.HomeButton.Name = "HomeButton";
-            this.HomeButton.Size = new System.Drawing.Size(104, 97);
-            this.HomeButton.TabIndex = 1;
-            this.HomeButton.UseVisualStyleBackColor = false;
-            this.HomeButton.Click += new System.EventHandler(this.HomeButton_Click);
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // SideBarTimer
             // 

@@ -9,3 +9,15 @@ D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.c
 D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
 D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Admin_Mangagement.resources
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Book_Borrow.resources
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
