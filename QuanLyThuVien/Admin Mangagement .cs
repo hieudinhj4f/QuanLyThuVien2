@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,27 +25,68 @@ namespace QuanLyThuVien
             if( SideBarExpand )
             {
                 // if sidebar is expand , minimize 
-                SideBar.Width -= 100;
+                SideBar.Width -= 10;
                 if( SideBar.Width == SideBar.MinimumSize.Width)
                 {
                     SideBarExpand = false;
                     SideBarTimer.Stop();
+
+                    button1.Enabled = false;
+                    button3.Enabled = false;
+                    ExitButton.Enabled = false;
+
                 }
             }
             else
             {
-                SideBar.Width += 100;
+                SideBar.Width += 10;
                 if ( SideBar.Width == SideBar.MaximumSize.Width )
                 {
                     SideBarExpand = true;
                     SideBarTimer.Stop();
+
+                    button1.Enabled = true;
+                    button3.Enabled = true;
+                    ExitButton.Enabled = true;
                 }
             }
         }
-
+        //KhoiDongSideBar
         private void HomeButton_Click(object sender, EventArgs e)
         {
             SideBarTimer.Start();
+        }
+        //Nut Thoat
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void ChangingUser(UserControl usercontrol)
+        {
+            usercontrol.Dock= DockStyle.Fill;
+            PanelParent.Controls.Clear();
+            PanelParent.Controls.Add(usercontrol);
+            usercontrol.BringToFront();
+
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Sach book = new Sach();
+            ChangingUser(book);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ThongTin tt = new ThongTin();
+            ChangingUser(tt);
+        }
+
+        private void Admin_Mangagement_Load(object sender, EventArgs e)
+        {
+            button1.Enabled = false;
+            button3.Enabled = false;
+            ExitButton.Enabled = false;
         }
     }
 }

@@ -1,50 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QuanLyThuVien\\QuanLyThuVien\\",
+  "WorkspaceRootPath": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlysinhvienclone\\quanlythuvien2\\quanlythuvien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:admin mangagement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\book borrow .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:book borrow .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\home .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:home .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\book borrow .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:book borrow .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\book return .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:book return .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\home .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:home .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\customer information .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:customer information .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\login .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:login .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\account create .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:account create .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|d:\\quanlythuvien\\quanlythuvien\\forgot password .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD0EC46F-A2CD-4C18-A854-3CCD6C115D89}|QuanLyThuVien.csproj|solutionrelative:forgot password .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,138 +42,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book Borrow .cs",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Borrow .cs",
-              "RelativeDocumentMoniker": "Book Borrow .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Borrow .cs",
-              "RelativeToolTip": "Book Borrow .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ThongTin.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\ThongTin.cs",
+              "RelativeDocumentMoniker": "ThongTin.cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\ThongTin.cs",
+              "RelativeToolTip": "ThongTin.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T01:43:17.636Z",
+              "WhenOpened": "2024-03-12T01:52:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongTin.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\ThongTin.cs",
+              "RelativeDocumentMoniker": "ThongTin.cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\ThongTin.cs [Design]",
+              "RelativeToolTip": "ThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:55:55.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Sach.cs",
+              "RelativeDocumentMoniker": "Sach.cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Sach.cs",
+              "RelativeToolTip": "Sach.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwEcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:41:45.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Admin Mangagement .cs",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Admin Mangagement .cs",
-              "RelativeDocumentMoniker": "Admin Mangagement .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Admin Mangagement .cs",
-              "RelativeToolTip": "Admin Mangagement .cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswB4AAAAoAAAA",
+              "Title": "Sach.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Sach.cs",
+              "RelativeDocumentMoniker": "Sach.cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Sach.cs [Design]",
+              "RelativeToolTip": "Sach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T01:14:36.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home .cs",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Home .cs",
-              "RelativeDocumentMoniker": "Home .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Home .cs",
-              "RelativeToolTip": "Home .cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAswBYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:56:41.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book Borrow .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Borrow .cs",
-              "RelativeDocumentMoniker": "Book Borrow .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Borrow .cs [Design]",
-              "RelativeToolTip": "Book Borrow .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:54:38.609Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin Mangagement .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Admin Mangagement .cs",
-              "RelativeDocumentMoniker": "Admin Mangagement .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Admin Mangagement .cs [Design]",
-              "RelativeToolTip": "Admin Mangagement .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:54:00.311Z",
+              "WhenOpened": "2024-03-11T15:35:49.44Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Book Return .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Return .cs",
-              "RelativeDocumentMoniker": "Book Return .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Book Return .cs [Design]",
-              "RelativeToolTip": "Book Return .cs [Design]",
+              "Title": "Admin Mangagement .cs",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Admin Mangagement .cs",
+              "RelativeDocumentMoniker": "Admin Mangagement .cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Admin Mangagement .cs",
+              "RelativeToolTip": "Admin Mangagement .cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:54:25.243Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-07T01:14:36.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer Information .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Customer Information .cs",
-              "RelativeDocumentMoniker": "Customer Information .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Customer Information .cs [Design]",
-              "RelativeToolTip": "Customer Information .cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Admin Mangagement .cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Admin Mangagement .cs",
+              "RelativeDocumentMoniker": "Admin Mangagement .cs",
+              "ToolTip": "D:\\QuanLySinhVienClone\\QuanLyThuVien2\\QuanLyThuVien\\Admin Mangagement .cs [Design]",
+              "RelativeToolTip": "Admin Mangagement .cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:55:24.91Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Home .cs",
-              "RelativeDocumentMoniker": "Home .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Home .cs [Design]",
-              "RelativeToolTip": "Home .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:51:33.869Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Forgot Password .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Forgot Password .cs",
-              "RelativeDocumentMoniker": "Forgot Password .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Forgot Password .cs [Design]",
-              "RelativeToolTip": "Forgot Password .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:53:08.664Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Account Create .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Account Create .cs",
-              "RelativeDocumentMoniker": "Account Create .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Account Create .cs [Design]",
-              "RelativeToolTip": "Account Create .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:52:47.793Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login .cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyThuVien\\QuanLyThuVien\\Login .cs",
-              "RelativeDocumentMoniker": "Login .cs",
-              "ToolTip": "D:\\QuanLyThuVien\\QuanLyThuVien\\Login .cs [Design]",
-              "RelativeToolTip": "Login .cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:52:20.331Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-07T00:54:00.311Z"
             }
           ]
         }
