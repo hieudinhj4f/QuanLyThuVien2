@@ -119,7 +119,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dtg_muon);
             this.Name = "Book_Borrow";
-            this.Text = "Book_Borrow";
+            this.Text = "Mượn sách";
             this.Load += new System.EventHandler(this.Book_Borrow_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtg_muon)).EndInit();
             this.ResumeLayout(false);

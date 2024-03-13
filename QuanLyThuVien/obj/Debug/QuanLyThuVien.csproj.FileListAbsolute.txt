@@ -23,3 +23,4 @@ D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
 D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Book_Return.resources
 D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Book_Cart.resources
+D:\winform\bai_tap_lon\QuanLyThuVien2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Book_Late.resources

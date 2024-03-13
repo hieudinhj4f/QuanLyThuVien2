@@ -118,7 +118,7 @@
             this.Controls.Add(this.lb_ngaymuon);
             this.Controls.Add(this.dgr_gioHang);
             this.Name = "Book_Cart";
-            this.Text = "Book_Cart";
+            this.Text = "Giỏ hàng";
             this.Load += new System.EventHandler(this.Book_Cart_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgr_gioHang)).EndInit();
             this.ResumeLayout(false);

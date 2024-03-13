@@ -118,7 +118,7 @@
             this.Controls.Add(this.lb_ngaymuon);
             this.Controls.Add(this.dtg_tra);
             this.Name = "Book_Return";
-            this.Text = "Book_Return";
+            this.Text = "Trả sách";
             this.Load += new System.EventHandler(this.Book_Return_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtg_tra)).EndInit();
             this.ResumeLayout(false);

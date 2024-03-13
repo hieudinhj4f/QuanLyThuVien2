@@ -70,6 +70,12 @@
     <Compile Include="Book Cart.Designer.cs">
       <DependentUpon>Book Cart.cs</DependentUpon>
     </Compile>
+    <Compile Include="Book Late.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Book Late.Designer.cs">
+      <DependentUpon>Book Late.cs</DependentUpon>
+    </Compile>
     <Compile Include="Book Return .cs">
       <SubType>Form</SubType>
     </Compile>
@@ -123,6 +129,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Book Cart.resx">
       <DependentUpon>Book Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Book Late.resx">
+      <DependentUpon>Book Late.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Book Return .resx">
       <DependentUpon>Book Return .cs</DependentUpon>

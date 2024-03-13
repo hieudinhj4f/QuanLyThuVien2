@@ -45,6 +45,8 @@ namespace QuanLyThuVien
         private void HomeButton_Click(object sender, EventArgs e)
         {
             SideBarTimer.Start();
+            Book_Late book_Late = new Book_Late();
+            book_Late.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
